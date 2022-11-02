@@ -1,0 +1,103 @@
+html {
+    background-image: url(pizza.jpg);
+    background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+
+h1 {
+    color:rgb(244, 242, 246);
+    margin-left: 102px
+}
+
+div nav{
+    color:white ;
+    display:inline;
+    
+}
+
+div img{
+    background-color: antiquewhite;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+    font-size: medium;
+    font-size: 46px;
+    padding: 10px;
+}
+
+h2{
+    color: darkmagenta;
+    font-size: 50px;
+    margin-top: 12px;
+    margin-left: 143px;
+}
+
+#presentation{
+    color: azure;
+    margin-block: revert;
+    margin-right: 159px;
+}
+h2 video {
+    margin-left: 30px;
+}
+
+h2 dl {
+    color: aliceblue;
+}
+
+dl {
+    margin-left: 85px;
+    font-size: 139%;
+}
+
+table{
+    width: 45%;
+}
+
+table,th,td {
+    margin-left: 77px;
+    border: 1px solid rgb(28 28 28 / 90%);
+    border-collapse: collapse;
+    font-size: 125%;
+}
+
+input {
+    margin-left: 58px;
+}
+
+.aka {
+    margin-left: 19px;
+}
+
+#telN {
+    padding-left: 0%;
+}
+
+#password {
+    margin-left: 30px;
+}
+
+button {
+    font-size: 25px;
+    margin-left: 40px;
+    margin-top: 25px;
+    background: bisque;
+    border-radius: 10px;
+}
+
+#top {
+    color: white;
+    text-decoration: none;
+    font-size: 28px;
+    padding: 10px;
+}
+
+footer {
+    background: chocolate;
+    text-align: center;
+    font-size: xx-large;
+    color: blue;
+}
